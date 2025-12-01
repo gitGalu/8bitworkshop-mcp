@@ -2,7 +2,7 @@
 
 ## Wymagania
 - Node.js 18+
-- https://github.com/gitGalu/8bitworkshop
+- 8bitworkshop z tego brancha: https://github.com/gitGalu/8bitworkshop/tree/atari8-mcp-headless-bridge
 - Zainicjowane submoduły (`git submodule update --init --recursive`)
 
 ## Budowanie IDE
